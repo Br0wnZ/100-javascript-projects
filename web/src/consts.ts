@@ -23,4 +23,19 @@ export const PROJECTS = [
       "Sprites"
     ],
   },
+  {
+    slug: "03-typing-game",
+    title: "Reto de Mecanografía",
+    description: "Pon a prueba tus habilidades de mecanografía con este reto",
+    learnings: [
+      "DOM",
+      "Eventos de teclado",
+      "Manejo de clases",
+      "Optimización selectores"
+    ],
+    theme: {
+      isDark: true
+    },
+    youtube: 'https://www.youtube.com/watch?v=157qVlTelOg&t=135s'
+  }
 ]
